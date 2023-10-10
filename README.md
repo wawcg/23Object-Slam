@@ -1,5 +1,3 @@
-# 23Object-Slam
-program data
 # 23 Object-Slam<br />
 
 ## System Flow Chart<br />
